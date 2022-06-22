@@ -1,0 +1,57 @@
+body{
+    margin:0;
+    padding:0;
+}
+nav{
+    background-color: lightslategray;
+
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25pt;
+    text-align: center;
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18pt;
+    text-align: center;
+}
+.navButtons {
+    display: inline-block;
+    font-family:'Franklin Gothic Bold', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20pt;
+    background-color: darkslategray;
+    color: white;
+    padding: 12px 40px 12px 40px;
+    margin: 0;
+    margin-right: 1px;
+}
+.sidebar{
+    float:left;
+    width:29%;
+    background-color: blue;
+    height: 1000px;
+}
+.rightContent {
+    float: left;
+    width:70%;
+    background-color: tan;
+    height: 1000px;
+}
+
+.profileContainer {
+    background-color: lightblue;
+    height: 300px;
+
+}
+
+.profileDetails {
+    background-color: coral;
+    height: 700px;
+}
+.profilepic {
+    text-align: center;
+    margin:12px;
+    margin-top:60px;
+
+}
